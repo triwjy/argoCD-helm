@@ -15,4 +15,3 @@ spec:
     path: helm-chart
     repoURL: https://github.com/triwjy/argoCD-helm
     targetRevision: HEAD
-  syncPolicy: {}
